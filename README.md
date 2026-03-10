@@ -1,0 +1,1 @@
+# Skripsi-klasifikasi-kerusakan-mesin-fotocopy-random-forest
